@@ -1,0 +1,23 @@
+{
+  "name": "http-logger",
+  "version": "1.0.0",
+  "description": "A global http-logger to log all http requests sent by a NodeJS application to external services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "log",
+    "http",
+    "log",
+    "http",
+    "requests",
+    "log",
+    "http-logger",
+    "http",
+    "logger"
+  ],
+  "author": "Manish M. Demblani",
+  "license": "ISC"
+}
